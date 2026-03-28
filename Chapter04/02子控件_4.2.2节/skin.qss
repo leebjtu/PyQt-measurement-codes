@@ -1,7 +1,0 @@
-QComboBox::drop-down{
-image: url(images/dropdown.png);
-}
-QWidget{
-/*background-color:red;*/
-image-border: url(images/whpu.png);
-}
